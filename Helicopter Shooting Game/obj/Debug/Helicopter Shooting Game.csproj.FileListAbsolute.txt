@@ -1,0 +1,24 @@
+C:\Users\aksha\Desktop\Helicopter Shooting\Helicopter Shooting Game\bin\Debug\Helicopter Shooting Game.exe.config
+C:\Users\aksha\Desktop\Helicopter Shooting\Helicopter Shooting Game\bin\Debug\Helicopter Shooting Game.exe
+C:\Users\aksha\Desktop\Helicopter Shooting\Helicopter Shooting Game\bin\Debug\Helicopter Shooting Game.pdb
+C:\Users\aksha\Desktop\Helicopter Shooting\Helicopter Shooting Game\obj\Debug\Helicopter_Shooting_Game.Form1.resources
+C:\Users\aksha\Desktop\Helicopter Shooting\Helicopter Shooting Game\obj\Debug\Helicopter_Shooting_Game.Properties.Resources.resources
+C:\Users\aksha\Desktop\Helicopter Shooting\Helicopter Shooting Game\obj\Debug\Helicopter Shooting Game.csproj.GenerateResource.cache
+C:\Users\aksha\Desktop\Helicopter Shooting\Helicopter Shooting Game\obj\Debug\Helicopter Shooting Game.csproj.CoreCompileInputs.cache
+C:\Users\aksha\Desktop\Helicopter Shooting\Helicopter Shooting Game\obj\Debug\Helicopter Shooting Game.exe
+C:\Users\aksha\Desktop\Helicopter Shooting\Helicopter Shooting Game\obj\Debug\Helicopter Shooting Game.pdb
+C:\Users\aksha\Desktop\Helicopter Shooting\Helicopter Shooting Game\obj\Debug\Helicopter_Shooting_Game.StartScreen.resources
+C:\Users\aksha\Desktop\Helicopter Shooting\Helicopter Shooting Game\obj\Debug\Helicopter_Shooting_Game.HelpScreen.resources
+C:\Users\aksha\Desktop\Helicopter Shooting\Helicopter Shooting Game\obj\Debug\Helicopter Shooting Game.csproj.AssemblyReference.cache
+C:\Users\aksha\OneDrive\Desktop\projects\Helicopter Shooting\Helicopter Shooting Game\bin\Debug\Helicopter Shooting Game.exe.config
+C:\Users\aksha\OneDrive\Desktop\projects\Helicopter Shooting\Helicopter Shooting Game\bin\Debug\Helicopter Shooting Game.exe
+C:\Users\aksha\OneDrive\Desktop\projects\Helicopter Shooting\Helicopter Shooting Game\bin\Debug\Helicopter Shooting Game.pdb
+C:\Users\aksha\OneDrive\Desktop\projects\Helicopter Shooting\Helicopter Shooting Game\obj\Debug\Helicopter Shooting Game.csproj.AssemblyReference.cache
+C:\Users\aksha\OneDrive\Desktop\projects\Helicopter Shooting\Helicopter Shooting Game\obj\Debug\Helicopter_Shooting_Game.Form1.resources
+C:\Users\aksha\OneDrive\Desktop\projects\Helicopter Shooting\Helicopter Shooting Game\obj\Debug\Helicopter_Shooting_Game.HelpScreen.resources
+C:\Users\aksha\OneDrive\Desktop\projects\Helicopter Shooting\Helicopter Shooting Game\obj\Debug\Helicopter_Shooting_Game.Properties.Resources.resources
+C:\Users\aksha\OneDrive\Desktop\projects\Helicopter Shooting\Helicopter Shooting Game\obj\Debug\Helicopter_Shooting_Game.StartScreen.resources
+C:\Users\aksha\OneDrive\Desktop\projects\Helicopter Shooting\Helicopter Shooting Game\obj\Debug\Helicopter Shooting Game.csproj.GenerateResource.cache
+C:\Users\aksha\OneDrive\Desktop\projects\Helicopter Shooting\Helicopter Shooting Game\obj\Debug\Helicopter Shooting Game.csproj.CoreCompileInputs.cache
+C:\Users\aksha\OneDrive\Desktop\projects\Helicopter Shooting\Helicopter Shooting Game\obj\Debug\Helicopter Shooting Game.exe
+C:\Users\aksha\OneDrive\Desktop\projects\Helicopter Shooting\Helicopter Shooting Game\obj\Debug\Helicopter Shooting Game.pdb
